@@ -1,0 +1,76 @@
+{
+    "hedges": {
+        "approximators": {
+            "adaptors": [
+                "sort of",
+                "a little bit",
+                "almost",
+                "entirely",
+                "kind of",
+                "more",
+                "less",
+                "quite",
+                "really",
+                "some",
+                "somewhat",
+                "much",
+                "entire",
+                "very",
+                "kind of",
+                "commonly",
+                "in a sense"
+            ],
+            "rounders": [
+                "about",
+                "around",
+                "approximately",
+                "essentially",
+                "over",
+                "roughly",
+                "nearly",
+                "slightly",
+                "highly",
+                "mostly",
+                "at most"
+            ]
+        }
+    },
+    "shields": {
+        "plausibility shields": [
+            "think",
+            "seem",
+            "believe",
+            "believed",
+            "suppose",
+            "supposed",
+            "tell",
+            "wonder",
+            "argue",
+            "insist",
+            "note",
+            "assume",
+            "probably",
+            "likely",
+            "unlikely",
+            "would",
+            "could",
+            "may",
+            "might",
+            "should",
+            "can",
+            "cannot",
+            "will"
+        ],
+        "attribution shields": [
+            "presumably",
+            "said",
+            "say",
+            "says",
+            "according to",
+            "in my view",
+            "in most cases",
+            "it is reported/assumed that",
+            "if"
+        ]
+    }
+}
